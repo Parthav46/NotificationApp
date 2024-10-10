@@ -64,3 +64,9 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Firebase config
+google-services.json
+GoogleService-Info.plist
+
+package-lock.json
